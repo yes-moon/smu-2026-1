@@ -1,0 +1,23 @@
+# 강의자료·배포 코드·학번 파일은 커밋하지 않는다
+*.pdf
+*.pptx
+*.hwp
+*.hwpx
+*_pages/
+*_학번*
+# 빌드 산출물
+*.exe
+*.obj
+*.class
+out/
+x64/
+.vs/
+*.sln
+*.slnx
+*.vcxproj*
+# 데이터
+*.csv
+.ipynb_checkpoints/
+__pycache__/
+.claude/
+CLAUDE.local.md
